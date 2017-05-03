@@ -6,3 +6,7 @@
 [![Canonical Code Style](https://img.shields.io/badge/code%20style-canonical-blue.svg?style=flat-square)](https://github.com/gajus/canonical)
 
 A webpack loader for [prepack](https://prepack.io/).
+
+## Discontinued
+
+This has been discontinued in favour of https://github.com/gajus/prepack-webpack-plugin.
